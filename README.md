@@ -8,7 +8,3 @@ A short description of the project.
 # Example
 python main.py
 ```
-
-## License
-
-[MIT License](LICENSE)
