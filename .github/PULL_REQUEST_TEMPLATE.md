@@ -1,31 +1,24 @@
-✅ Code Quality
-My code follows the project’s style guidelines (ESLint/Prettier).
+## Checklist  
 
-I performed a self-review of my code.
+### Code Quality  
+- [ ] My code follows the code style of this project.  
+- [ ] I have performed a self-review of my code.  
+- [ ] I have commented my code, particularly in hard-to-understand areas.  
+- [ ] My changes generate no new warnings or errors.  
 
-I added comments for complex or unclear logic.
+### Documentation  
+- [ ] I have updated the documentation (README, comments, or guides).  
+- [ ] I have updated the CHANGELOG.md if applicable.  
 
-I removed/debugged any console.log() or temporary code.
+### Validation  
+- [ ] I have tested my changes locally.  
+- [ ] I have verified cross-browser compatibility (Chrome, Firefox, Safari).  
+- [ ] I have checked mobile/responsive behavior.  
 
-My changes generate no new warnings (build/linter).
+### Security & Maintenance  
+- [ ] I have audited for sensitive data exposure (API keys, tokens).  
+- [ ] I have reviewed npm/yarn dependencies (`npm audit`).  
 
-📖 Documentation
-I updated the README/docs if my changes affect setup/usage.
-
-I updated the CHANGELOG.md (if applicable).
-
-I linked this PR to its GitHub Issue (e.g., Fixes #123).
-
-🔒 Security & Performance
-I checked for sensitive data leaks (e.g., API keys in code).
-
-I verified no new npm vulnerabilities (npm audit).
-
-I optimized critical renders (e.g., lazy loading, image compression).
-
-🚀 Deployment & Compatibility
-My changes work in production mode (npm run build).
-
-I tested on major browsers (Chrome, Firefox, Safari).
-
-I verified mobile/responsive behavior.
+### Optional (Delete if not needed)  
+- [ ] I have added/updated unit or integration tests.  
+- [ ] I have attached screenshots/GIFs for UI changes.  
