@@ -1,37 +1,31 @@
-# Pull Request Template
+✅ Code Quality
+My code follows the project’s style guidelines (ESLint/Prettier).
 
-## Description
-Please include a summary of the change and which issue is fixed. Include relevant motivation or context. List any dependencies that are required for this change.
+I performed a self-review of my code.
 
-Fixes # (issue)
+I added comments for complex or unclear logic.
 
-## Type of Change
-- [✔️] Bug fix (Done)
-- [❌] Bug fix (Failed)
-- [ ] New feature
-- [ ] Breaking change
-- [ ] Refactor
+I removed/debugged any console.log() or temporary code.
 
-## How Has This Been Tested?
-Please describe the tests that were run to verify your changes. Include any relevant details for test setup.
+My changes generate no new warnings (build/linter).
 
-- [ ] Unit tests
-- [ ] Integration tests
-- [ ] Manual tests
+📖 Documentation
+I updated the README/docs if my changes affect setup/usage.
 
-## Checklist
-- [ ] My code follows the code style of this project
-- [ ] I have performed a self-review of my code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have updated the CHANGELOG.md if applicable
+I updated the CHANGELOG.md (if applicable).
 
-## Additional Notes
-Add any other information or context for the reviewer here.
+I linked this PR to its GitHub Issue (e.g., Fixes #123).
 
-## Additional Information on Symbols
-- **✔️**: Indicates that the task or item has been successfully completed.
-- **❌**: Indicates that the task or item has failed or is not applicable.
-- [✔️] change fix (Done)
-- [❌] change fix (Failed)
+🔒 Security & Performance
+I checked for sensitive data leaks (e.g., API keys in code).
+
+I verified no new npm vulnerabilities (npm audit).
+
+I optimized critical renders (e.g., lazy loading, image compression).
+
+🚀 Deployment & Compatibility
+My changes work in production mode (npm run build).
+
+I tested on major browsers (Chrome, Firefox, Safari).
+
+I verified mobile/responsive behavior.
