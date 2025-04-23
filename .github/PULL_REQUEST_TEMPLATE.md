@@ -1,3 +1,17 @@
+# Pull Request Template
+
+## Description
+Please include a summary of the change and which issue is fixed. Include relevant motivation or context. List any dependencies that are required for this change.
+
+Fixes # (issue)
+
+## Type of Change
+- [✔️] Bug fix (Done)
+- [❌] Bug fix (Failed)
+- [ ] New feature
+- [ ] Breaking change
+- [ ] Refactor
+- [ ] 
 ## Checklist  
 
 ### Code Quality  
@@ -22,3 +36,11 @@
 ### Optional (Delete if not needed)  
 - [ ] I have added/updated unit or integration tests.  
 - [ ] I have attached screenshots/GIFs for UI changes.  
+## Additional Notes
+Add any other information or context for the reviewer here.
+
+## Additional Information on Symbols
+- **✔️**: Indicates that the task or item has been successfully completed.
+- **❌**: Indicates that the task or item has failed or is not applicable.
+- [✔️] change fix (Done)
+- [❌] change fix (Failed)
