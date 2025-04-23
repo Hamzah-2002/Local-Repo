@@ -11,7 +11,7 @@ Fixes # (issue)
 - [ ] New feature
 - [ ] Breaking change
 - [ ] Refactor
-- [ ] 
+
 ## Checklist  
 
 ### Code Quality  
